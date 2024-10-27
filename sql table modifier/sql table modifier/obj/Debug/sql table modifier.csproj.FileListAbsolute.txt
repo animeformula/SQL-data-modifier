@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sql table modifier\sql table modifier\bin\Debug\sql table modifier.exe.config
+C:\Users\User\source\repos\sql table modifier\sql table modifier\bin\Debug\sql table modifier.exe
+C:\Users\User\source\repos\sql table modifier\sql table modifier\bin\Debug\sql table modifier.pdb
+C:\Users\User\source\repos\sql table modifier\sql table modifier\obj\Debug\sql table modifier.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sql table modifier\sql table modifier\obj\Debug\sql_table_modifier.Form1.resources
+C:\Users\User\source\repos\sql table modifier\sql table modifier\obj\Debug\sql_table_modifier.Properties.Resources.resources
+C:\Users\User\source\repos\sql table modifier\sql table modifier\obj\Debug\sql table modifier.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sql table modifier\sql table modifier\obj\Debug\sql table modifier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sql table modifier\sql table modifier\obj\Debug\sql table modifier.exe
+C:\Users\User\source\repos\sql table modifier\sql table modifier\obj\Debug\sql table modifier.pdb
